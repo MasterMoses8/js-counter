@@ -1,0 +1,17 @@
+/* style body element */
+body {
+	/* 100% of the screen witdh */
+	width: 100vw;
+	/* 100% of the screen height */
+	height: 100vh;
+	/* style background color */
+	background-color: aliceblue;
+	/* display body content */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+div {
+	text-align: center;
+}
